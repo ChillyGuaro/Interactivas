@@ -1,0 +1,15 @@
+Instrucciones:
+
+1. El archivo template-simple-site.jpg sirve como referencia visual para crear el frontend.
+
+2. Puede utilizar Bootstrap
+
+3.La tipografía utilizada es Lato (disponible en Google Fonts)
+
+4. Los colores se mencionan en hexadecimal, se sugiere convertirlos a HSL
+
+5. Debe definir los tamaños de letra según cada sección y elemento
+
+6. Las referencias a posibles etiquetas de HTML a utilizar son solamente recomendaciones, usted puede utilizar otras si es el caso, pero debe mantener la semántica y buen uso de las etiquetas.
+
+7. La versión mobile es propuesta libre

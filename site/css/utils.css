@@ -1,0 +1,84 @@
+@import url("vars.css");
+
+header{
+    background-color: var(--clr-heaader-bg);
+    padding: 2rem 3rem 6rem 3rem;
+    margin: auto;
+}
+
+
+h1{
+    font-family: var(--ff-primary);
+    font-weight: var(--fw-lig);
+    color: var(--clr-white);
+}
+
+.h1-header{
+    margin-top: 6rem;
+    font-weight: var(--fw-lig);
+}
+
+section h2{
+    font-family: var(--ff-primary);
+    font-size: var(--fs-sm);
+    font-weight: var(--fw-reg); 
+    color: var(--clr-gray2);
+    margin-top: 1.5rem;
+    margin-bottom: 1.5rem;
+    
+}
+
+section h4{
+    font-family: var(--ff-primary);
+    font-size: var(--fs-sm);
+    font-weight: var(--fw-reg); 
+    color: var(--clr-gray2);
+    margin-top: 1.5rem;
+    margin-bottom: 2.5rem;
+    
+}
+
+
+section h3{
+    font-family: var(--ff-primary);
+    font-weight: var(--fw-reg); 
+    color: var(--clr-gray1);
+    margin-top: 1.5rem;
+    margin-bottom: 1.5rem;
+}
+
+section p{
+    margin-top: 1rem;
+}
+
+.design{
+    position: absolute;
+}
+
+.center{
+    text-align: center;
+}
+
+section {
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    margin-top: 2.5rem;
+}
+
+.bg-footer{
+    background-color: var(--clr-gray1);
+    padding: 2rem 3rem 4rem 3rem;
+    margin-top: 5rem;
+}
+
+.img-footer{
+   margin-top: 2.5rem;
+   width: 15%;
+}
+
+.img-section{
+    margin-top: 2.5rem;
+    width: 40%;
+ }

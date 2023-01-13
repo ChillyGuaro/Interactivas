@@ -1,0 +1,56 @@
+@import url("vars.css");
+@import url("utils.css");
+
+.btn-inicio{
+    text-decoration: none;
+    font-family: var(--ff-primary);
+    font-weight: var(--fw-lig);
+    border: solid 1px var(--clr-white);
+    padding: 0.5rem 1.5rem;
+}
+
+span{
+    font-weight: var(--fw-bold);
+}
+
+.a-color{
+    color: var(--clr-white);
+}
+
+.info-header{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 2rem;
+    gap: 2rem;
+}
+
+.boton1{
+    font-family: var(--ff-primary);
+    font-weight: var(--fw-bold);
+    padding: 0.5rem 3rem;
+    background-color: var(--clr-header-btn);
+    margin-top: 5rem;
+    border-radius: 1rem;
+    border: 0;
+    color: var(--clr-white);
+    text-align: center;
+}
+
+.boton2{
+    font-family: var(--ff-primary);
+    font-weight: var(--fw-bold);
+    padding: 0.5rem 4rem;
+    color: var(--clr-btn-body-txt);
+    border: solid 1px var(--clr-btn-body-broder); 
+    border-radius: 1rem;
+    margin-bottom: 5rem;
+    text-decoration: none;
+}
+
+.imagenes{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 1.5rem;
+    margin-bottom: 2.5rem;
+}
